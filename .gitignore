@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+**/__Previews/*
+**/History/*
+**/Project Logs for MFC/*
+**/Project Outputs for MFC/*
